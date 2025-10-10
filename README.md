@@ -8,12 +8,16 @@ This repository showcases end-to-end projects that highlight my skills in Python
 
 ### MLB Pitch Outcome Prediction
 **Goal:** Predict whether a pitch results in a strike using Statcast data.
+
 **Highlights:** Data cleaning, feature engineering, model evaluation.
+
 **Tools:** Python, Pandas, Scikit-learn, Matplotlib, PyBaseball
 
 ### Sentiment Analysis with RoBERTa
 **Goal:** Classify text sentiment using transformer models.
+
 **Highlights:** NLP preprocessing, fine-tuning RoBERTa, model evaluation.
+
 **Tools:** Python, Transformers
 
 ## Contact
