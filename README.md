@@ -20,6 +20,15 @@ This repository showcases end-to-end projects that highlight my skills in Python
 
 **Tools:** Python, Transformers
 
+## Media Mentions
+
+My analystical work and research on Hispanic voter data have been featured in:
+
+- [Politico](https://www.politico.com/news/2024/08/22/harris-trump-hispanic-voters-00175772) (Coverage of Hispanic voter trends in Arizona)
+- [NPR Philadelphia](https://whyy.org/articles/pennsylvania-hispanic-voters-kamala-harris-joe-biden-donald-trump/) (Analysis of Latino voting behavior in Pennsylvania)
+
+These stories referenced findings from surveys and analyses I helped design and field as part of Media Predict's political research team.
+
 ## Contact
 - **LinkedIn:** [linkedin.com/in/dallinreeves](https://linkedin.com/in/dallinreeves)  
 - **Email:** dallinreeves@egmail.com  
