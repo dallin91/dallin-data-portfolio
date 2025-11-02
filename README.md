@@ -1,8 +1,6 @@
 # My Data Portfolio
 
-A collection of data projects by Dallin Reeves. These projects showcase skills in Python, SQL, and other data tools.
-
-This repository showcases end-to-end projects that highlight my skills in Python, SQL, visualization, and applied data science.
+A collection of data projects by Dallin Reeves. This repository showcases end-to-end projects that highlight my skills in Python, SQL, visualization, and applied data science.
 
 ## Featured Projects
 
