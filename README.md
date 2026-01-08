@@ -30,6 +30,6 @@ These stories referenced findings from surveys and analyses I helped design and 
 ## Contact
 - **LinkedIn:** [linkedin.com/in/dallinreeves](https://linkedin.com/in/dallinreeves)  
 - **Email:** dallinreeves@gmail.com  
-- **Location:** Remote | Open to opportunities in TX, MN, WI, MI, WA
+- **Location:** Houston, TX | Open to opportunities in TX, MN, WI, MI, WA
 
 *Thanks for visiting! Feel free to explore, or reach out if you'd like to collaborate.*
