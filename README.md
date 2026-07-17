@@ -11,12 +11,16 @@ A collection of data projects by Dallin Reeves. This repository showcases end-to
 
 **Tools:** Python, Pandas, Scikit-learn, Matplotlib, PyBaseball
 
+**Results:** SGD Classifier achieved 70.7% accuracy on binary strike/no-strike prediction, trained on 2025 full-season Statcast pitching data (~475K pitches).
+
 ### Sentiment Analysis with RoBERTa
 **Goal:** Classify text sentiment using transformer models.
 
 **Highlights:** NLP preprocessing, fine-tuning RoBERTa, model evaluation.
 
 **Tools:** Python, Transformers
+
+**Results:** 83.3% classification accuracy across positive/neutral/negative sentiment on Amazon product reviews, validated against actual star ratings.
 
 ## Media Mentions
 
